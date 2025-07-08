@@ -61,8 +61,8 @@
     <string name="twentymin">20 דקות</string>
     <string name="thirtymin">חצי שעה</string>
     <string name="sixtymin">שעה</string>
-    <string name="su_allow_toast">%1$s קיבל הרשאות משתמש על</string>
-    <string name="su_deny_toast">%1$s נשללו הרשאות משתמש על</string>
+    <string name="su_allow_toast">%1$קיבל הרשאות משתמש על s</string>
+    <string name="su_deny_toast">%1$נשללו הרשאות משתמש על s</string>
     <string name="su_snack_grant">הרשאות משתמש על עבור %1$s הוענקו</string>
     <string name="su_snack_deny">הרשאות משתמש על עבור %1$s נשללו</string>
     <string name="su_snack_notif_on">התראות של %1$s מופעלות</string>
